@@ -63,7 +63,7 @@ public class MainActivity extends ActionBarActivity {
     }*/
     private void refreshScreen(){
 
-    //Call to server to grab list of student records. this is a asyn
+    //Call to server to grab list of student records. this is a asynkljljkljk
     //restService.getInstituteService().getStudent(new Callback<List<Student>>()
     // restService.getCategoryService().getCategory(new Callback<List<Category>>() {
     // });
